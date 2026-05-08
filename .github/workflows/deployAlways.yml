@@ -19,7 +19,7 @@ jobs:
         with:
           server:  ftp-laurido.alwaysdata.net 
           username: laurido
-          password: antho2216
+          password: antho2022
           server-dir: www/ 
           protocol: ftps
           timeout: 86400000
